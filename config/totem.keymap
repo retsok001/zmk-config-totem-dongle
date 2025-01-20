@@ -32,21 +32,25 @@
         combo_esc {
             bindings = <&kp ESCAPE>;
             key-positions = <13 12 11>;
+            layers = <3>;
         };
 
         combo_copy {
             bindings = <&kp K_COPY>;
             key-positions = <22 23>;
+            layers = <3>;
         };
 
         combo_paste {
             bindings = <&kp K_PASTE>;
             key-positions = <24 23>;
+            layers = <3>;
         };
 
         combo_cut {
             bindings = <&kp K_CUT>;
             key-positions = <22 23 24>;
+            layers = <3>;
         };
 
         combo_left_bracket {
@@ -115,7 +119,7 @@
             bindings = <
          &kp Q        &kp W       &kp F           &kp P        &kp B             &kp J    &kp L            &kp U            &kp Y       &kp SINGLE_QUOTE
          &mt LCTRL A  &mt LALT R  &mt LEFT_GUI S  &mt LSHFT T  &kp G             &kp M    &mt RSHFT N      &mt RIGHT_GUI E  &mt RALT I  &mt RCTRL O
-&kp TAB  &kp Z        &kp X       &kp C           &kp D        &kp V             &kp K    &kp H            &kp COMMA        &kp DOT     &kp FSLH          &kp BSLH
+&kp TAB  &kp Z        &kp X       &kp C           &kp D        &kp V             &kp K    &kp H            &kp COMMA        &kp DOT     &kp QUESTION      &kp TAB
                                   &lt 3 TAB       &lt 2 SPACE  &kp LEFT_SHIFT    &kp RET  &lt 1 BACKSPACE  &lt 4 DELETE
             >;
         };
