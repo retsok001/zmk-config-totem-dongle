@@ -120,7 +120,7 @@
          &kp Q        &kp W       &kp F           &kp P        &kp B    &kp J    &kp L          &kp U            &kp Y       &kp SINGLE_QUOTE
          &mt LCTRL A  &mt LALT R  &mt LEFT_GUI S  &mt LSHFT T  &kp G    &kp M    &mt RSHFT N    &mt RIGHT_GUI E  &mt RALT I  &mt RCTRL O
 &kp TAB  &kp Z        &kp X       &kp C           &kp D        &kp V    &kp K    &kp H          &kp COMMA        &kp DOT     &kp QUESTION      &kp TAB
-                                  &lt 3 TAB       &kp Q        &mo 1    &kp RET  &kp BACKSPACE  &kp DELETE
+                                  &lt 3 TAB       &lt 2 SPACE  &mo 1    &kp RET  &kp BACKSPACE  &kp DELETE
             >;
         };
 
